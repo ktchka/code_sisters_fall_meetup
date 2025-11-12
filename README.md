@@ -1,9 +1,9 @@
 # Влияние ИИ на человека: рассуждение, агентность, креативность, социальные связи
-_Презентация для the митапа code_sisters, осень 2025_
+_Презентация для митапа code_sisters, осень 2025_
 
-Презентация
+[Презентация](https://github.com/ktchka/code_sisters_fall_meetup/blob/main/presentation_Krupkina_cs_2025-11%20.pdf)
 
-Запись выступления
+[Запись выступления](https://youtu.be/SvxAqdX8WXA?si=bb_5zxhfxgx-kG2r)
 
 #### План доклада:
 1. Четыре столпа под угрозой
